@@ -43,3 +43,7 @@ Bu proje, mikroservisler aracılığıyla farklı alanlarda yönetilen modüller
 - **Servisler**: Her bir mikroservis bağımsız çalışıyor.
 - **Veritabanları**: Farklı veri tabanları ile çalışma imkanı.
 - **API Gateway**: Servisler arası iletişimi yöneten Ocelot kullanılıyor.
+
+![1](https://github.com/user-attachments/assets/06e566fd-17de-4f8d-8820-5948cd08cf55)
+![2](https://github.com/user-attachments/assets/b81a519e-d543-486b-8375-65e9ffb68ac1)
+
